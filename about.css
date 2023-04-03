@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.about h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.aboutd p {
+    width: 70%;
+    min-height: 60vh;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: #e3e1e166;
+}
